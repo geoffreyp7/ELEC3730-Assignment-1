@@ -1,0 +1,6 @@
+18:30:43 **** Incremental Build of configuration Debug for project Ass-01-STM32 ****
+make all 
+make: Nothing to be done for 'all'.
+
+18:30:43 Build Finished (took 249ms)
+

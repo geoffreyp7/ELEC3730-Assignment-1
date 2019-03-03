@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ass-01-STM32 Run,org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT Run,org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-STM32\ Run/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-STM32\ Run/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT\ Run/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT\ Run/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ass-01-WINNT.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

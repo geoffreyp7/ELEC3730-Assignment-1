@@ -1,0 +1,7 @@
+15:16:02 **** Incremental Build of configuration Debug for project Ass-01-WINNT ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ass-01.o" "..\\src\\Ass-01.c" 
+gcc -o Ass-01-WINNT.exe "src\\Ass-01-Q01.o" "src\\Ass-01-Q02.o" "src\\Ass-01-Q03.o" "src\\Ass-01-Q04.o" "src\\Ass-01.o" "src\\main.o" 
+
+15:16:03 Build Finished (took 1s.466ms)
+
